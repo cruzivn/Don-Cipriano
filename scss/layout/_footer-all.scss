@@ -1,0 +1,40 @@
+@import "../components/bg-fb";
+@import "../components/bg-ff";
+
+.container-body {
+    h1 {
+        font-size: 22px;
+    }
+
+    p {
+        font-size: 14px;
+        color: #c7c7c7;
+        margin-top: 20px;
+    }
+
+    a {
+        color: #c7c7c7;
+    }
+
+    label {
+        color: #c7c7c7;
+    }
+
+    img {
+        width: 36px;
+    }
+
+}
+
+.copyright {
+    color: #c7c7c7;
+}
+
+.terminos {
+    color: #c7c7c7;
+
+    a {
+        text-decoration: none;
+        color: #c7c7c7;
+    }
+}

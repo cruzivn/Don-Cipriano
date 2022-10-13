@@ -1,0 +1,10 @@
+.contenedor-faq {
+ @include flex-faq (column, center);  
+}
+.caja-faq {
+    text-align: center;
+    margin: 5px;
+    background-color: darkorange;
+    border: 4px solid;
+    width: 400px;
+}   

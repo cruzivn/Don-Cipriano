@@ -1,0 +1,7 @@
+@mixin flex-faq($direction, $align) {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    flex-direction: $direction;
+    align-items: $align;
+}

@@ -1,0 +1,17 @@
+.contenedor-menu{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    img {
+        width: 125px;
+    }
+}
+.caja {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 400px;
+    margin: 5px
+}

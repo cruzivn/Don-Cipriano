@@ -1,0 +1,39 @@
+
+@media (max-width: 575px){ /** MOBILE **/
+
+    .flex-contenedor {
+        flex-direction: column;
+    }
+    .box img {
+        width: 335px;
+    }
+}
+
+@media (max-width: 375px){ /** MOBILE **/
+.contenedor-faq{
+    .caja-faq{
+        width: 300px;
+    }
+}    
+.flex-contenedor {
+    flex-direction: column;
+}
+.box img {
+    width: 290px;
+}
+
+}
+
+@media (max-width: 320px){
+    .contenedor-faq{
+        .caja-faq{
+            width: 300px;
+        }
+    }
+    .flex-contenedor {
+        flex-direction: column;
+    }
+    .box img {
+        width: 240px;
+    }
+}

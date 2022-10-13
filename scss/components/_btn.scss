@@ -1,0 +1,9 @@
+.btn-dc {
+    background-color: darkorange;
+    border-color: darkorange;
+    border-radius: 40px;
+    &:hover{
+        background-color: #eee;
+        color: darkorange;
+    }
+}
